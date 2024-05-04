@@ -9,7 +9,7 @@
 ## 清华大学
 > 清华大学夏令营信息：https://yz.tsinghua.edu.cn/xlyxx.htm
 
-【报名截止：5.8】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/)
+【报名截止：5.8】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/) 还差推荐信
 
 【报名截止：5.8】[清华交叉信息研究院 ARChipLab实验室](https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf)
 
@@ -32,52 +32,52 @@
 ## 北京大学
 > 北京大学夏令营信息：https://admission.pku.edu.cn/xly/index.htm?CSRFT=F92S-Z8W8-ES9W-6BFM-W68T-OTF2-6VOU-KQN9
 
-【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754)
+【报名截止：6.11】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754) 主要是医学，算啦
 
-【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm)
+【报名截止：6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm) 主要是医学，算啦
 
-【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html)
+【报名截止：6.12】[生命科学学院和生命科学联合中心（北大方面）](http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html) 主要是医学，算啦
 > 不限于生物学及医学相关专业。欢迎其它理学或者工学专业（如数学、物理、化学、工程、心理、信息、计算机等）对生命科学有着强烈兴趣和科研创造力的申请者。
 
 ~~【报名截止：4.24】[统计科学中心](https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg)~~
 
 ## 北京脑科学与类脑研究所 
 
-【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w)
+【报名截止：6.11】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w) 主要是医学，算啦
 > 北京脑所现与国内五所著名高校联合招生，分别是北京大学、北京协和医学院、北京师范大学、中国农业大学和首都医科大学，本年度的夏令营主要招收有意愿报考北京大学、协和医学院、中国农业大学和首都医科大学的推免本科生。
 
 ## 昌平实验室
-【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml)
+【报名截止：6.1】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml) 在北京，算了吧。。。
 
 ## 上海交通大学
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
 
-【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ)
+【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ) 已经发送邮件，等待
 
 ## 南京大学
 > [南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
 
-【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm)
+【报名截止：5.5】[计算机科学与技术系2024年本科生开放日](https://cs.nju.edu.cn/53/55/c1702a676693/page.htm) 已经完成报名
 
-【报名截止：5.20(可能)】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html)
+【报名截止：5.20(可能)】[软件所本科生开放日招生说明](https://ics.nju.edu.cn/recruit/index.html) 
 
-【报名截止：4.20, 延期5.15】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html)
+【报名截止：4.20, 延期5.15】[LAMDA招收 2025年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html) 这个主要是基础理论领域，而且要求好麻烦，算啦
 > 若LAMDA在考查后表示同意招收您，您**仍需**通过正常的研究生入学考试（推免或考研）获得南京大学人工智能学院的博/硕士生入学资格！
 
 ## 浙江大学
 
-【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm)
+【报名截止：6.3】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm) 主要是医学，算啦
 
-【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA)
+【报名截止：N/A】[良渚实验室](https://mp.weixin.qq.com/s/Gs3k5hUXWtsFQ872NchURA) 英语不够啊啊啊啊啊
 > 请关注[良渚实验室官方网站](http://liangzhulab.zju.edu.cn/)，后续报名网址、报名材料及招生导师信息将于网站通知公告及人才培养栏目发布
 
 ## 中国人民大学
 
-【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg)
+【报名截止：N/A】[高瓴人工智能学院AI-Engine实验室](https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg) 已经发了邮件，回复让我等待夏令营
 
 ## 电子科技大学
 
-【报名截止：6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/4761.htm)
+【报名截止：6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/4761.htm) 四川算了吧
 
 ## 西湖大学
 
@@ -91,7 +91,7 @@
 
 【报名截止：5.10】[空天信息创新研究院（空天院）](https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A)
 
-【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html)
+【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html) 完成报名
 
 ~~【报名截止：4.17】[数学与系统科学研究院](http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html)~~
 
