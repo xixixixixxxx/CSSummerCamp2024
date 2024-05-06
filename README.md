@@ -107,7 +107,7 @@
 
 【报名截止：N/A】[量子物理和量子信息研究团队保研招生简章](https://quantum.ustc.edu.cn/web/index.php/node/762)
 
-【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/)
+【报名截止：N/A】[中科大 MIRA Lab 保研招生简章](https://miralab.ai/admission/admission_2024/) 已完成，回复让我等待夏令营
 
 ## 南方科技大学
 
