@@ -52,7 +52,7 @@
 ## 上海交通大学
 ~~【报名截止：4.15】[密西根学院2024年“科研见习项目”](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/)~~
 
-【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ) 已经发送邮件，等待
+【报名截止：N/A】[人工智能与微结构实验室](https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ) 已完成联系，回复的消息让我等待夏令营
 
 ## 南京大学
 > [南京大学2024年全国优秀大学生夏令营通知信息汇总 （持续更新）](https://grawww.nju.edu.cn/64/88/c905a681096/page.htm)
